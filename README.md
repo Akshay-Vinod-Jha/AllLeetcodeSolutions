@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
