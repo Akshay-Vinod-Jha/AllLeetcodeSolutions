@@ -1,11 +1,9 @@
-WITH table1 AS (
-    SELECT salary, 
-           DENSE_RANK() OVER (ORDER BY salary DESC) AS rankis
-    FROM Employee
+WITH TABLE1 AS (
+    SELECT salary , DENSE_RANK() OVER (ORDER BY salary DESC) AS IMP FROM  Employee
 )
+
 SELECT 
     CASE
-        WHEN EXISTS (SELECT 1 FROM table1 WHERE rankis = 2) 
-             THEN (SELECT salary FROM table1 WHERE rankis = 2 LIMIT 1)
+        WHEN EXISTS(SELECT 1 FROM TABLE1 WHERE IMP = 2) THEN (SELECT salary FROM TABLE1 WHERE IMP=2 LIMIT 1)
         ELSE NULL
-    END AS SecondHighestSalary;
+    END AS SecondHighestSalary 
