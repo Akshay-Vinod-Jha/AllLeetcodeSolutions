@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0048-rotate-image) |
+| [3830-find-closest-person](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3830-find-closest-person) |
 ## Prefix Sum
 |  |
 | ------- |
