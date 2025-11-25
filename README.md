@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0048-rotate-image) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3830-find-closest-person](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3830-find-closest-person) |
 ## Prefix Sum
