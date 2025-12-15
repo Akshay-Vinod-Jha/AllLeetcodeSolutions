@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Simulation
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0048-rotate-image) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
