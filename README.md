@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Iterator
 |  |
 | ------- |
