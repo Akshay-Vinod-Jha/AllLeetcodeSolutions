@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 ## Doubly-Linked List
 |  |
