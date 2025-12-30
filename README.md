@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3583-count-special-triplets) |
@@ -158,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
