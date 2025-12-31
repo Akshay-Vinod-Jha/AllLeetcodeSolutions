@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0445-add-two-numbers-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [0445-add-two-numbers-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2181-merge-nodes-in-between-zeros) |
