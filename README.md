@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1765-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
 |  |
 | ------- |
