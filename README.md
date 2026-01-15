@@ -337,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
