@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3531-count-covered-buildings) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
 |  |
 | ------- |
