@@ -372,10 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Ordered Set
 |  |
 | ------- |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
