@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3637-trionic-array-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
