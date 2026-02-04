@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3640-trionic-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3640-trionic-array-ii) |
 ## Simulation
 |  |
 | ------- |
