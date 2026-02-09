@@ -11,22 +11,25 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>& v){
-        if(!root) return ;
-        inorder(root->left,v);
-        v.push_back(root->val);
-        inorder(root->right,v);
+    TreeNode* impfun(int start,int end,vector<int>& converted){
+        if(start>end) return nullptr;
+        int midis = ( start + end )/2;
+        TreeNode* returnme = new TreeNode(converted[midis]);
+        returnme->left = impfun(start,midis-1,converted);
+        returnme->right = impfun(midis+1,end,converted);
+        return returnme;
     }
-    TreeNode* mainLogic(vector<int>& v,int low,int high){
-        if(low>high) return nullptr;
-        int mid = (low+high)/2;
-        TreeNode* r=new TreeNode(v[mid]);
-        r->left=mainLogic(v,low,mid-1);
-        r->right=mainLogic(v,mid+1,high);
-        return r;
+    void toVector(TreeNode* root,vector<int>& converted){
+        if(root==nullptr) return ;
+        toVector(root->left,converted);
+        converted.push_back(root->val);
+        toVector(root->right,converted);
     }
     TreeNode* balanceBST(TreeNode* root) {
-        vector<int> v;inorder(root,v);
-        return mainLogic(v,0,v.size()-1);
+        vector<int> converted;
+        toVector(root,converted);
+        int size = converted.size();
+        return impfun(0,size-1,converted);
+
     }
 };
