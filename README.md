@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3640-trionic-array-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Stack
 |  |
 | ------- |
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
