@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [3583-count-special-triplets](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Segment Tree
 |  |
 | ------- |
