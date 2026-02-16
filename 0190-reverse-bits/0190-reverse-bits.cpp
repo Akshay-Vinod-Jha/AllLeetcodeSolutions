@@ -15,11 +15,9 @@ public:
             ans.push_back(0);
         }
 
-        int length = ans.size();
-
-        for(int i = 0; i < length; i++){
+        for(int i = 0; i < 32; i++){
             if(ans[i] == 1){
-                returnme += pow(2, length - 1 - i);  
+                returnme += pow(2, 32 - 1 - i);  
             }
         }
 
