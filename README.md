@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
