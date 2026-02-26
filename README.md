@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
