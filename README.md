@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3531-count-covered-buildings) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
