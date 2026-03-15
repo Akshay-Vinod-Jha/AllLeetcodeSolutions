@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1390-four-divisors) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1622-fancy-sequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1622-fancy-sequence) |
 ## Iterator
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
+| [1622-fancy-sequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1622-fancy-sequence) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
 |  |
