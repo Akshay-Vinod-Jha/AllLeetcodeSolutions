@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1765-map-of-highest-peak) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1765-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
