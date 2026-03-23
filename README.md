@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1765-map-of-highest-peak) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1765-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
