@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3640-trionic-array-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
