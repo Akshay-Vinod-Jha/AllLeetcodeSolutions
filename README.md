@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2463-minimum-total-distance-traveled](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2751-robot-collisions) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2463-minimum-total-distance-traveled](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2463-minimum-total-distance-traveled](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
