@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1765-map-of-highest-peak) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0696-count-binary-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
