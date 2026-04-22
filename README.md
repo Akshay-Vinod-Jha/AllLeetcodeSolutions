@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
@@ -646,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1192-critical-connections-in-a-network) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
