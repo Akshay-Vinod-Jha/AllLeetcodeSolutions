@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
