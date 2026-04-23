@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2121-intervals-between-identical-elements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2121-intervals-between-identical-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
+| [2121-intervals-between-identical-elements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2121-intervals-between-identical-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3488-closest-equal-element-queries) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
+| [2121-intervals-between-identical-elements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2121-intervals-between-identical-elements) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
