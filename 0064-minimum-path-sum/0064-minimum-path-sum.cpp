@@ -20,28 +20,28 @@ public:
         
         int m = grid.size();
         int n = grid[0].size();
-        vector<vector<int>> dp(m,vector<int>(n,-1));
-        dp[0][0] = grid[0][0];
+        vector<int> dp(n,-1);
+        dp[0] = grid[0][0];
         for(int xs=0;xs<m;xs++){
             for(int ys=0;ys<n;ys++){
                 if(xs==0 &&  ys==0) continue;
                 int up = INT_MAX;
                 int uxs = xs-1;
                 int uys = ys;
-                if(uxs>=0 && uys>=0 && dp[uxs][uys]!=-1){
-                    up = grid[xs][ys] + dp[uxs][uys];
+                if(uxs>=0 && uys>=0 && dp[uys]!=-1){
+                    up = grid[xs][ys] + dp[uys];
                 }
 
                 uxs = xs;
                 uys = ys-1;
                 int down = INT_MAX;
-                if(uxs>=0 && uys>=0 && dp[uxs][uys]!=-1){
-                    down = grid[xs][ys] + dp[uxs][uys];
+                if(uxs>=0 && uys>=0 && dp[uys]!=-1){
+                    down = grid[xs][ys] + dp[uys];
                 }
-                dp[xs][ys] = min(up,down);
+                dp[ys] = min(up,down);
             }
         }
-        return dp[m-1][n-1];
+        return dp[n-1];
 
     }
 };
