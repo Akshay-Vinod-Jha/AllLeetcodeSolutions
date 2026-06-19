@@ -1,36 +1,26 @@
 class Solution {
 public:
-    int helper(
-        int index,
-        int target,
-        vector<int>& coins,
-        vector<vector<int>>& dp
-    ){
-        if(target==0) return 1;
-
-        if(index==0){
-            if(target%coins[0] ==  0){
-                return 1;
-            }
-            return 0;
-        }
-
-        if(dp[index][target]!=-1) return dp[index][target];
-
-        int cont = 0;
-        if(coins[index]<=target){
-            cont = helper(index,target-coins[index],coins,dp);
-        }
-
-        int skip = helper(index-1,target,coins,dp);
-        return  dp[index][target] = cont+skip;
-
-    }
     int change(int amount, vector<int>& coins) {
-        int size = coins.size();
         int sum = amount;
-        vector<vector<int>> dp(size,vector<int>(sum+1,-1));
-        int retme = helper(size-1,sum,coins,dp);
-        return retme;
+        int size = coins.size();
+        vector<vector<long long>> dp(size,vector<long long>(sum+1,0));
+        for(int i=0;i<size;i++){
+            dp[i][0] = 1;
+        }
+        for(int i=0;i<sum+1;i++){
+            dp[0][i] = (i%coins[0]==0)? 1 : 0;
+        }
+        for(int index=1;index<size;index++){
+            for(int target=1;target<sum+1;target++){
+                int cont = 0;
+
+                if(coins[index] <= target){
+                    cont = dp[index][target-coins[index]];
+                }
+                int skip = dp[index-1][target];
+                dp[index][target] =(long long)cont+(long long)skip;
+            }
+        }
+        return dp[size-1][sum];
     }
 };
