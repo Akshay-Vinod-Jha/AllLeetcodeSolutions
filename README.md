@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1622-fancy-sequence) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -762,4 +767,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
