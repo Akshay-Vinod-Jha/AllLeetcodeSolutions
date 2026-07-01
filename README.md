@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1092-shortest-common-supersequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
