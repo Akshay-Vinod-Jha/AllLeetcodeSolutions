@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
