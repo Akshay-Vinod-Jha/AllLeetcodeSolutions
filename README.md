@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
