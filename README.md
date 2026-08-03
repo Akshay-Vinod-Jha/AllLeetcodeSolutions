@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1463-cherry-pickup-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1463-cherry-pickup-ii) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0307-range-sum-query-mutable) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1622-fancy-sequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Iterator
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -661,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1765-map-of-highest-peak) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -684,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
