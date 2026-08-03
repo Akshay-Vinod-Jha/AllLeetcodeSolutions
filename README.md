@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0547-number-of-provinces](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0841-keys-and-rooms](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
