@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0303-range-sum-query-immutable) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
