@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-restaurant-growth](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1625-group-sold-products-by-the-date](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1670-patients-with-a-condition) |
