@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2121-intervals-between-identical-elements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2121-intervals-between-identical-elements) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -967,12 +971,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
