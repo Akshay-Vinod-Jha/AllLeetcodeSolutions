@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1563-stone-game-v](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1840-maximum-building-height) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
