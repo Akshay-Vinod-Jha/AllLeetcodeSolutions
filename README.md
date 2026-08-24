@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1872-stone-game-viii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2463-minimum-total-distance-traveled](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2573-find-the-string-with-lcp) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1872-stone-game-viii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1895-largest-magic-square) |
 | [2121-intervals-between-identical-elements](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2121-intervals-between-identical-elements) |
@@ -989,17 +993,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
