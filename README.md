@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1092-shortest-common-supersequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0696-count-binary-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
