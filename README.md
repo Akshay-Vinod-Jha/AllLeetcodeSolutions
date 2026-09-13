@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0835-image-overlap](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0875-koko-eating-bananas](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0877-stone-game) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Akshay-Vinod-Jha/AllLeetcodeSolutions/tree/master/1277-count-square-submatrices-with-all-ones) |
